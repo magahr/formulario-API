@@ -11,6 +11,7 @@ https://alurageek-api.vercel.app/
 1. Click "**Use this template**" or clone this repository.
 2. Update or use the default [`db.json`](./db.json) in the repository.
 3. Sign up or log in to [Vercel](https://vercel.com).
+
 4. From the Vercel dashboard, click "**+ New Project**" and then "**Import**" your repository.
 5. On the "**Configure Project**" screen, leave everything as default and click "**Deploy**".
 6. Wait until deployment is complete, and your custom JSON server will be ready to serve!
