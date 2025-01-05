@@ -30,8 +30,9 @@ https://alurageek-api.vercel.app/
   ]
 }
 ```
-
+npm run start
 Control de cambio:
 
 git commit -m "11-11-2024 - Updating db.json"
+git commit /m "05/01/2024 / Updating everything"
 
